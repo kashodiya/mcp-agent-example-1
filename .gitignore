@@ -1,6 +1,10 @@
 # Secrets file
 mcp_agent.secrets.yaml
 
+# Generated output files
+parallel_research_results.md
+result_*.md
+
 # Python
 __pycache__/
 *.py[cod]
